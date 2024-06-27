@@ -89,6 +89,20 @@ public static void main(String[] args) {
 System.out.println();
 ```
 
+使用 `100.fori` 迅速生成循环次数为 100，条件控制语句递增的 for 循环语句。
+
+```java
+for (int i = 0; i < 100; i++) {
+}
+```
+
+使用 `100.forr`  迅速生成循环次数为 100，条件控制语句递减的 for 循环语句。
+
+```java
+for (int i = 100; i > 0; i--) {
+}
+```
+
 ## 四、.IDEA 编写、编译、运行代码
 
 IDEA 中，编写的 .java 文件，会自动保存和编译 。
