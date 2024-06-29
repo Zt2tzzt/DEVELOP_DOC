@@ -38,7 +38,7 @@ class（类）是真正写代码的地方。
 
 ![IDEA项目解构](NodeAssets/IDEA项目解构.jpg)
 
-## 二、.IDEA 创建一个空 Java 项目
+## 二、IDEA 创建一个空 Java 项目
 
 ### 1.project（项目、工程）创建
 
