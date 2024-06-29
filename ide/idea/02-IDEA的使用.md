@@ -151,6 +151,12 @@ IDEA 中，编写的 .java 文件，会自动保存和编译 。
 1. 点击左上角“File”，再点击“Project Structures”；
 2. 点击右侧“SDKs"，点击上方”+“号，再点击”Add JDK“。
 
+### 9.设置光标处逐行递增
+
+1. 安装插件 [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)；
+2. 多光标选中要改变的值。
+3. 按下 Alt + m，选择 Increment/Decrement，选择 Create Squeece。
+
 ## 六、IDEA 类、模块、项目操作
 
 ### 1.IDEA class（类）的操作
