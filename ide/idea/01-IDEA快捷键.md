@@ -16,6 +16,8 @@ Ctrl + Z，撤销；
 
 Ctrl + Shift + Z，反向撤销。
 
+Ctrl + Alt + v，生成等号左边的代码。
+
 ## 二、注释
 
 Ctrl + /，行注释。
