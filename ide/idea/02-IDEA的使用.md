@@ -74,7 +74,9 @@ class（类）是真正写代码的地方。
 2. 为 class（类）取名（注意遵守 class 类的命名规范）；
 3. 选中“class”，回车。
 
-## 三、.IDEA 常用代码片段
+## 三、.IDEA 常用快捷操作
+
+### 1.IDEA 默认代码片段
 
 使用 `psvm` 迅速生成以下程序入口代码片段：
 
@@ -86,7 +88,13 @@ public static void main(String[] args) {
 使用 `sout` 迅速生成以下输出语句代码片段：
 
 ```java
-System.out.println();
+System.out.println("");
+```
+
+使用 `souf` 迅速生成以下输出语句代码片段：
+
+```java
+System.out.printf("");
 ```
 
 使用 `100.fori` 迅速生成循环次数为 100，条件控制语句递增的 for 循环语句。
@@ -102,6 +110,10 @@ for (int i = 0; i < 100; i++) {
 for (int i = 100; i > 0; i--) {
 }
 ```
+
+### 2.IDEA 插件
+
+[ptg](https://plugins.jetbrains.com/plugin/13598-ptg) 插件，快速生成一个 JavaBean 类。
 
 ## 四、.IDEA 编写、编译、运行代码
 
