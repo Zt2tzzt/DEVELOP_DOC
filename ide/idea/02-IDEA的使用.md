@@ -115,6 +115,8 @@ for (int i = 100; i > 0; i--) {
 
 [ptg](https://plugins.jetbrains.com/plugin/13598-ptg) 插件，快速生成一个 JavaBean 类。
 
+ [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) 插件，可用于逐行递增数字，选中多行要递增的数字，Alt + M，increment/decrement，increment duplicate。
+
 ## 四、.IDEA 编写、编译、运行代码
 
 IDEA 中，编写的 .java 文件，会自动保存和编译 。

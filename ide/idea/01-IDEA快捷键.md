@@ -10,13 +10,15 @@ F2 / Shift + F2，定位下一个/上一个错误。
 
 Ctrl + [ / ]，回到光标所在括号开头/结尾；
 
-Ctrl + Z，撤销；
-
-Ctrl + Shift + Z，反向撤销。
+Ctrl + Z / Ctrl + Shift + Z，撤销 / 反向撤销；
 
 Ctrl + Alt + v，生成等号左边的代码。
 
 Ctrl + Shift + \，分屏（自定义的快捷键）
+
+Ctrl + B，跟进原码。
+
+Ctrl + Alt + T，选中代码，选择用什么语句体包裹。
 
 ## 二、注释
 
@@ -37,6 +39,8 @@ Shift + Tab，取消缩进。
 Alt + 鼠标左键拖动，选中连续的多行进行编辑。
 
 Alt + Shift + 鼠标左键点击，选中单个的多行进行标记
+
+逐行递增数字：下载插件 [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)，选中多行要递增的数字，Alt + M，increment/decrement，increment
 
 ## 五、行操作
 
