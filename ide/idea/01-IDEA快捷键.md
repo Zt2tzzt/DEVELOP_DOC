@@ -88,6 +88,8 @@ Ctrl + P，调用方法时，把光标移动到括号里，按下快捷键，查
 
 Ctrl + Alt + M，选中要抽取的方法体，按下快捷键，自动抽取代码。
 
+Alt + Enter，根据方法调用语句生成方法。
+
 ## 九、类
 
 Alt + insert，为 JavaBean 类创建构造方，getter、setter 访问器等等。
