@@ -57,6 +57,15 @@ class（类）是真正写代码的地方。
 3. 选择左侧“JAVA”，表示新建一个 JAVA Module；并为 module（模块）起名。
 4. 点击下方“OK”，创建 module（模块）。
 
+#### 2.1.module（模块）导入
+
+为这个项目，导入一个已存在的 module（模块）；
+
+1. 点击左上角“File”，再点击“Project Structures”；
+2. 在弹出的窗口右侧，选择“Modules”，点击窗口上方“+”号。再选择“Import Modules”；
+3. 选择已有模块（Module）目录下的 `.iml` 配置文件。
+4. 点击下方“OK”，导入 module（模块）。
+
 ### 3.package（包）创建
 
 在模块中，新建一个 package（包），本质上就是一个文件夹（目录）：
