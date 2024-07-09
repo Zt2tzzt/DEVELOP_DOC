@@ -83,6 +83,14 @@ class（类）是真正写代码的地方。
 2. 为 class（类）取名（注意遵守 class 类的命名规范）；
 3. 选中“class”，回车。
 
+#### 4.1interface（接口）创建
+
+在 package（包）中，新建一个 interface 接口。
+
+1. 在右侧项目目录结构中，选中刚刚创建的 package（包），右键 -> New -> Java Class；
+2. 为 interface（接口）取名（注意遵守 class 类的命名规范）；
+3. 选中“interface”，回车。
+
 ## 三、.IDEA 常用快捷操作
 
 ### 1.IDEA 默认代码片段
@@ -173,6 +181,11 @@ IDEA 中，编写的 .java 文件，会自动保存和编译 。
 
 1. 点击左上角“File”，再点击“Project Structures”；
 2. 点击右侧“SDKs"，点击上方”+“号，再点击”Add JDK“。
+
+#### 8.1 选择项目编译的 JDK
+
+1. 点击左上角“File”，再点击“Project Structures”；
+2. 选择右侧“Project"，再选择右侧“language level”中对应的版本。
 
 ### 9.设置光标处逐行递增
 
