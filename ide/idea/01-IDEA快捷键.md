@@ -8,7 +8,7 @@ F2 / Shift + F2，定位下一个/上一个错误。
 
 Ctrl + Z / Ctrl + Shift + Z，撤销 / 反向撤销；
 
-Ctrl + Alt + v，生成等号左边的代码。
+Ctrl + Alt + V，生成等号左边的代码。
 
 Ctrl + Shift + \，分屏（自定义的快捷键）
 
