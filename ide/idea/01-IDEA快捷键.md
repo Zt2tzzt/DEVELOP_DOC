@@ -115,3 +115,13 @@ Alt + insert，为 JavaBean 类创建构造方，getter、setter 访问器等等
 ## 十、变量操作
 
 Alt + Enter，变量和赋值语句进行切割。
+
+## 十一、代码块操作
+
+Ctrl + Shift + -，一次性折叠所有代码块。
+
+Ctrl + Shift + +，一次性打开所有代码块
+
+Ctrl + -，折叠光标所在代码块。
+
+Ctrl + +，打开光标所在代码块。
