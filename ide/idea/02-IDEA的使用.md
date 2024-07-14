@@ -57,7 +57,7 @@ class（类）是真正写代码的地方。
 3. 选择左侧“JAVA”，表示新建一个 JAVA Module；并为 module（模块）起名。
 4. 点击下方“OK”，创建 module（模块）。
 
-#### 2.1.module（模块）导入
+#### 1.module（模块）导入
 
 为这个项目，导入一个已存在的 module（模块）；
 
@@ -65,6 +65,11 @@ class（类）是真正写代码的地方。
 2. 在弹出的窗口右侧，选择“Modules”，点击窗口上方“+”号。再选择“Import Modules”；
 3. 选择已有模块（Module）目录下的 `.iml` 配置文件。
 4. 点击下方“OK”，导入 module（模块）。
+
+#### 2.第三方（jar）包导入
+
+1. 在 module 模块中，创建一个目录 `lib`，将第三方包 `xxx.jar` 放在该目录下。
+2. 右键该第三方包，选择“Add as Library”。
 
 ### 3.package（包）创建
 
@@ -83,7 +88,7 @@ class（类）是真正写代码的地方。
 2. 为 class（类）取名（注意遵守 class 类的命名规范）；
 3. 选中“class”，回车。
 
-#### 4.1interface（接口）创建
+#### 1.1interface（接口）创建
 
 在 package（包）中，新建一个 interface 接口。
 
@@ -133,6 +138,8 @@ for (int i = 100; i > 0; i--) {
 [ptg](https://plugins.jetbrains.com/plugin/13598-ptg) 插件，快速生成一个 JavaBean 类。
 
  [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) 插件，可用于逐行递增数字，选中多行要递增的数字，Alt + M，increment/decrement，increment duplicate。
+
+[any-rule](https://plugins.jetbrains.com/plugin/14162-any-rule) 插件，用于生成正则表达式。
 
 ## 四、.IDEA 编写、编译、运行代码
 
