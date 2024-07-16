@@ -84,9 +84,9 @@ Shift + Tab，缩进、取消缩进。
 
 ### 1.选中单词
 
-Ctrl + W，选中光标所在的单词
+【Windows】 ：Ctrl + W；选中光标所在的单词
 
-Alt + j，选中下一个相同的单词；
+【Windows】：Alt + j；【Mac】：Ctrl + G；选中下一个相同的单词；
 
 Ctrl + Shift + Alt + j，选中所有相同的单词
 
