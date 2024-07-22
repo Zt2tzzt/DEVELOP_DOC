@@ -58,7 +58,7 @@ Alt + Shift + 鼠标左键点击，选中单个的多行进行标记
 
 ### 1.删除行
 
-Ctrl + Y，删除光标所在行 或 删除选中的行
+【Windows】Ctrl + Y；【Mac】Command + BackSpace，删除光标所在行 或 删除选中的行
 
 ### 2.移动行
 
