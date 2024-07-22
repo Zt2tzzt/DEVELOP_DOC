@@ -133,6 +133,14 @@ for (int i = 100; i > 0; i--) {
 }
 ```
 
+使用 `单列集合或数组变量名.for` 迅速生成增强 for 循环代码块
+
+```java
+for(String s : coll) {
+  
+}
+```
+
 ### 2.IDEA 插件
 
 [ptg](https://plugins.jetbrains.com/plugin/13598-ptg) 插件，快速生成一个 JavaBean 类。

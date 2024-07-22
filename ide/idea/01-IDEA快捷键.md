@@ -12,7 +12,7 @@ Ctrl + Alt + V，生成等号左边的代码。
 
 Ctrl + Shift + \，分屏（自定义的快捷键）
 
-Ctrl + B，跟进原码。
+Ctrl + B / Ctrl + 左键，跟进原码。
 
 Ctrl + Alt + T，选中代码，选择用什么语句体包裹。
 
@@ -111,6 +111,8 @@ Ctrl + F12，展示类中所有方法。
 Alt + insert，为 JavaBean 类创建构造方，getter、setter 访问器等等。
 
 - 按两下 Tab，再按 Enter，表示不选中任何选项，通常用于创建空参构造方法。
+
+Alt + 7，罗列类中的成员。
 
 ## 十、变量操作
 
