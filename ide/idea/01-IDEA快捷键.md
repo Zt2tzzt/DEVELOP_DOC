@@ -84,7 +84,7 @@ Shift + Tab，缩进、取消缩进。
 
 ### 1.选中单词
 
-【Windows】 ：Ctrl + W；选中光标所在的单词
+【Windows】 ：Ctrl + W；【Mac】Opt + ⬆️；选中光标所在的单词
 
 【Windows】：Alt + j；【Mac】：Ctrl + G；选中下一个相同的单词；
 
@@ -108,7 +108,7 @@ Ctrl + F12，展示类中所有方法。
 
 ## 九、类操作
 
-Alt + insert，为 JavaBean 类创建构造方，getter、setter 访问器等等。
+【Windows】Alt + insert；【Mac】Com + N；为 JavaBean 类创建构造方，getter、setter 访问器等等。
 
 - 按两下 Tab，再按 Enter，表示不选中任何选项，通常用于创建空参构造方法。
 
