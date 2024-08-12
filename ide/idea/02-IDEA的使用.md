@@ -96,7 +96,60 @@ class（类）是真正写代码的地方。
 2. 为 interface（接口）取名（注意遵守 class 类的命名规范）；
 3. 选中“interface”，回车。
 
-## 三、.IDEA 常用快捷操作
+## 三、IDEA 类、模块、项目操作
+
+### 1.IDEA class（类）的操作
+
+我们知道，在项目中，每一个 .java 文件，就是一个 class 类。
+
+**新建 class 类**；在 package（包）中，新建一个 class 类的步骤如下：
+
+1. 在右侧项目目录结构中，选中刚刚创建的 package（包），右键 -> New -> Java Class；
+2. 为 class（类）取名（注意遵守 class 类的命名规范）；
+3. 选中“class”，回车。
+
+**修改 class 类**；在 package（包）中，修改一个 class 类的类名，步骤如下：
+
+1. 在右侧项目目录结构中，选中要修改的 .java 文件；
+2. 右键 -> Refactor > Rename。
+3. 输入修改的名称，回车。
+
+**删除 class 类**；在 package（包）中，删除一个 class 类的步骤如下：
+
+1. 在右侧项目目录结构中，选中要删除的 .java 文件，右键 -> delete。
+
+### 2.IDEA module（模块）的操作
+
+**新建 module 模块**；为这个项目，创建一个 module（模块）
+
+1. 点击左上角“File”，再点击“Project Structures”；
+2. 在弹出的窗口右侧，选择“Modules”，点击窗口上方“+”号。再选择“New Modules”；
+3. 选择左侧“JAVA”，表示新建一个 JAVA Module；并为 module（模块）起名。
+4. 点击下方“OK”，创建 module（模块）。
+
+修改 module 模块
+
+删除 module 模块
+
+导入 module 模块
+
+### 3.IDEA project（项目、工程）操作
+
+**关闭 project 项目**；关闭当前打开的项目：
+
+1. 点击左上角“File”，再点击“Close Project”；
+
+**新建 project 项目**；打开 IDEA 开发工具，创建一个 project（项目、工程）
+
+1. 点击“New Project”；
+2. 点击右侧“Empty Project”。
+3. 为项目起名，并选择项目存放位置。
+
+打开项目
+
+修改项目
+
+## 四、IDEA 常用快捷操作
 
 ### 1.IDEA 默认代码片段
 
@@ -149,7 +202,7 @@ for(String s : coll) {
 
 [any-rule](https://plugins.jetbrains.com/plugin/14162-any-rule) 插件，用于生成正则表达式。
 
-## 四、.IDEA 编写、编译、运行代码
+## 五、IDEA 编写、编译、运行代码
 
 IDEA 中，编写的 .java 文件，会自动保存和编译 。
 
@@ -158,7 +211,7 @@ IDEA 中，编写的 .java 文件，会自动保存和编译 。
 - 方式一：在空白处，右键 -> "Run Xxx.xxx()"；表示运行 Xxx 类的 xxx 方法。
 - 方式二：在 Xxx 类名，或者 xxx 方法名这一行代码的行号出，点击运行按钮。
 
-## 五、IDEA 设置
+## 六、IDEA 设置
 
 ### 1.进入 IDEA 的设置界面
 
@@ -208,55 +261,8 @@ IDEA 中，编写的 .java 文件，会自动保存和编译 。
 2. 多光标选中要改变的值。
 3. 按下 Alt + m，选择 Increment/Decrement，选择 Create Squeece。
 
-## 六、IDEA 类、模块、项目操作
+### 10.设置 JavaBean 类序列化固定版本号
 
-### 1.IDEA class（类）的操作
-
-我们知道，在项目中，每一个 .java 文件，就是一个 class 类。
-
-**新建 class 类**；在 package（包）中，新建一个 class 类的步骤如下：
-
-1. 在右侧项目目录结构中，选中刚刚创建的 package（包），右键 -> New -> Java Class；
-2. 为 class（类）取名（注意遵守 class 类的命名规范）；
-3. 选中“class”，回车。
-
-**修改 class 类**；在 package（包）中，修改一个 class 类的类名，步骤如下：
-
-1. 在右侧项目目录结构中，选中要修改的 .java 文件；
-2. 右键 -> Refactor > Rename。
-3. 输入修改的名称，回车。
-
-**删除 class 类**；在 package（包）中，删除一个 class 类的步骤如下：
-
-1. 在右侧项目目录结构中，选中要删除的 .java 文件，右键 -> delete。
-
-### 2.IDEA module（模块）的操作
-
-**新建 module 模块**；为这个项目，创建一个 module（模块）
-
-1. 点击左上角“File”，再点击“Project Structures”；
-2. 在弹出的窗口右侧，选择“Modules”，点击窗口上方“+”号。再选择“New Modules”；
-3. 选择左侧“JAVA”，表示新建一个 JAVA Module；并为 module（模块）起名。
-4. 点击下方“OK”，创建 module（模块）。
-
-修改 module 模块
-
-删除 module 模块
-
-导入 module 模块
-
-### 3.IDEA project（项目、工程）操作
-
-**关闭 project 项目**；关闭当前打开的项目：
-
-1. 点击左上角“File”，再点击“Close Project”；
-
-**新建 project 项目**；打开 IDEA 开发工具，创建一个 project（项目、工程）
-
-1. 点击“New Project”；
-2. 点击右侧“Empty Project”。
-3. 为项目起名，并选择项目存放位置。
-
-打开项目
-
-修改项目
+1. File -> Settings -> 搜索“Serializable”关键字
+2. 勾选“Serializable class without 'serialVersionUID'”;
+3. 勾选“Transient field is not initialized on deserialization”
