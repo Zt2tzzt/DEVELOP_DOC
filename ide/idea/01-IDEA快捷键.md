@@ -16,7 +16,7 @@ Ctrl + B / Ctrl + 左键，跟进原码。
 
 Ctrl + Alt + T，选中代码，选择用什么语句体包裹。
 
-Ctrl + N，根据输入的类名查找类文件 `（必备）`
+【Windows】Ctrl + N；【Mac】Com + O 根据输入的类名查找类文件 `（必备）`
 
 Ctrl + F，搜索文件。
 
