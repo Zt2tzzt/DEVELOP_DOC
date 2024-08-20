@@ -266,3 +266,7 @@ IDEA 中，编写的 .java 文件，会自动保存和编译 。
 1. File -> Settings -> 搜索“Serializable”关键字
 2. 勾选“Serializable class without 'serialVersionUID'”;
 3. 勾选“Transient field is not initialized on deserialization”
+
+### 11.设置一个类，可以重复运行多次：
+
+- 右上角选中类文件 -> Edit Configuration -> Modify Option -> Allow Multiple Instance
