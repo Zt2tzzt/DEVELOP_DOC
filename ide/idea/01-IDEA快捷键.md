@@ -14,18 +14,6 @@ Ctrl + Shift + \，分屏（自定义的快捷键）
 
 Ctrl + B / Ctrl + 左键，跟进原码。
 
-Ctrl + Alt + T，选中代码，选择用什么语句体包裹。
-
-【Windows】Ctrl + N；【Mac】Com + O 根据输入的类名查找类文件 `（必备）`
-
-Ctrl + F，搜索文件。
-
-Ctrl + R，替换文件搜索到的内容。
-
-Ctrl + Shift + F，搜索项目。
-
-Ctrl + Shift + R，替换项目搜索到的内容。
-
 ## 二、注释
 
 Ctrl + /，行注释。
@@ -130,3 +118,21 @@ Ctrl + Shift + +，一次性打开所有代码块
 Ctrl + -，折叠光标所在代码块。
 
 Ctrl + +，打开光标所在代码块。
+
+Ctrl + Alt + T，选中代码，选择用什么语句体包裹。
+
+## 十二、搜索、查找、替换
+
+Shift * 2，全局查找文件。
+
+【Windows】Ctrl + N；【Mac】Com + O 根据输入的类名查找类文件 `（必备）`
+
+【Windows】Ctrl + Shift + N；【Mac】Com + Shift + O 根据输入的文件路径查找类文件 `（必备）`
+
+Ctrl + F，搜索文件。
+
+Ctrl + R，替换文件搜索到的内容。
+
+Ctrl + Shift + F，搜索项目。
+
+Ctrl + Shift + R，替换项目搜索到的内容。
