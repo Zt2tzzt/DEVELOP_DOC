@@ -9,7 +9,7 @@
    - Type 设为 Maven；
    - Group 为组织名，比如设为 `com.kkcf`
    - artifact 为项目名，比如设为 `springboot-web-quickstart`；设置完成后，上方 name 会跟着修改。
-   - Pacakge name 为要在项目中创建的包层级，比如设为 `com.kkcf`
+   - Pacakge name 为要在项目中创建的包的层级，比如设为 `com.kkcf`
    - Java 为 Java 版本；比如设为 17；
    - Pacakging 为打包方式，比如设为 Jar；
 4. 点击 Next，进入下一步；
