@@ -57,3 +57,8 @@
 ## 11.设置一个类，可以重复运行多次
 
 - 右上角选中类文件 -> Edit Configuration -> Modify Option -> Allow Multiple Instance
+
+## 12.设置代码拆行显示
+
+1. Settings -> Editor -> General
+2. Soft-wrap these file 设为 `*.*`
