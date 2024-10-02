@@ -101,3 +101,10 @@ public class Test {
 
 - Ssettings -> Build,Execution,Deployment  ->  Build Tools  ->  Maven -> Repositories -> 选中本地仓库 -> 点击 Update
 
+## 七、IDEA Maven 结合 Spring Boot 项目打包
+
+Spring Boot 项目进行打包时，需要引入 `spring-boot-maven-plugin` 插件（基于官方骨架创建的 Spring Boot 项目，会自动添加该插件）
+
+IDEA 打包 Maven 项目：
+
+- 在 IDEA Maven 面板中，找到当前项目：Lifecycle -> 点击 package

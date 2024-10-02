@@ -12,3 +12,11 @@ IDEA 中，编写的 .java 文件，会自动保存和编译 。
 
 - 方式一：在空白处，右键 -> "Run Xxx.xxx()"；表示运行 Xxx 类的 xxx 方法。
 - 方式二：在 Xxx 类名，或者 xxx 方法名这一行代码的行号出，点击运行按钮。
+
+## 二、IDEA 设置 Java 系统属性、命令行参数
+
+在 IDEA 中，运行程序，可配置项目的 Java 系统属性，命令行参数。
+
+左上方点击要运行的方法 -> Edit Configurations -> Modify Options -> Add VM options 、Program arguments
+
+![idea设置Java系统属性和命令行参数](NodeAssets/idea设置Java系统属性和命令行参数.jpg)

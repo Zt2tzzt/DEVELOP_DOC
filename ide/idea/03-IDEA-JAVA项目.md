@@ -92,7 +92,7 @@ class（类）是真正写代码的地方。
 2. 为 interface（接口）取名（注意遵守 class 类的命名规范）；
 3. 选中“interface”，回车。
 
-## 一、IDEA 类、模块、项目操作
+## 三、IDEA 类、模块、项目操作
 
 ### 1.IDEA class（类）的操作
 
