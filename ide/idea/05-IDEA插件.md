@@ -7,3 +7,5 @@
 [any-rule](https://plugins.jetbrains.com/plugin/14162-any-rule) 插件，用于生成正则表达式。
 
 [MyBatisX](https://plugins.jetbrains.com/plugin/10119-mybatisx) 插件，用于高效的使用 MyBatis 框架。
+
+[Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console) 用于高亮展示指定的日志。
