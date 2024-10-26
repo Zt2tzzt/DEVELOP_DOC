@@ -44,3 +44,7 @@
 会发现，查询的表 user 报红色。这是因为在 IDEA 中，没有配置操作数据库的连接。所以 IDEA 没法给出 SQL 语句正确性的提示。
 
 - 在 IDEA 右侧 Database 面板中，配置目标数据库的连接即可。
+
+## 四、Bean 对象查看
+
+操作路径：Run -> Actuato -> Bean

@@ -14,6 +14,10 @@ Ctrl + Shift + \，分屏（自定义的快捷键）
 
 Ctrl + B / Ctrl + 左键，跟进原码。
 
+Ctrl + Alt + ←/→，切换页签
+
+Ctrl + E，打开关闭的页签。
+
 ## 二、注释
 
 Ctrl + /，行注释。
