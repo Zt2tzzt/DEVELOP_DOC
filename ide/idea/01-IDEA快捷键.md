@@ -76,7 +76,7 @@ Ctrl + /，行注释。
 
 ## 三、格式化
 
-Ctrl + Alt + Shift + L（大写），格式化代码，可以对当前文件和整个包目录使用。
+【Win】Ctrl + Alt + Shift + L【Mac】Com + Opt + Shift + L，格式化代码，可以对当前文件和整个包目录使用。
 
 Shift + Tab，取消缩进。
 
