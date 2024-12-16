@@ -114,7 +114,7 @@ Ctrl + D，复制光标所在行，或复制选择内容，并把复制内容�
 
 Shift + Enter，在当前行下方开始新行，
 
-Ctrl + Alt + Enter（⌥ + ⌘ + Enter ），在当前行上方开始新行，
+【win】Ctrl + Alt + Enter【mac】⌥ + ⌘ + Enter ），在当前行上方开始新行，
 
 ### 5.缩进
 
