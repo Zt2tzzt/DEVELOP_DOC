@@ -146,7 +146,7 @@ Alt + Enter，根据方法调用语句生成方法。
 
 ## 九、类操作
 
-【Windows】Alt + insert；【Mac】Com + N；为 JavaBean 类创建构造方，getter、setter 访问器等等。
+【Windows】Alt + insert；【Mac】Com + N；为 JavaBean 类创建构造方法，getter、setter 访问器等等。
 
 - 按两下 Tab，再按 Enter，表示不选中任何选项，通常用于创建空参构造方法。
 
