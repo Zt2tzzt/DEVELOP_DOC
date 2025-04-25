@@ -73,7 +73,7 @@ class（类）是真正写代码的地方。
 
 1. 选中右侧菜单中 module（模块）下的 src 目录，右键 -> New -> Package。
 2. 为 package（包）命名，习惯以公司域名的反写，加上 package（包）名来命名；
-   - 比如：公司域名的反写是：`com.kkcf`；包名是 `demo01`；加起来就是 `com.kcf.demo01`；
+   - 比如：公司域名的反写是：`com.kkcf`；包名是 `demo01`；加起来就是 `com.kkcf.demo01`；
    - 这个步骤，本质上是在 `src` 目录下，新建了一个 `com` 文件夹，在它下面又新建了一个 `kkcf` 文件夹，在它下面又新建了一个 `demo01` 文件夹；
 
 ### 4.class（类）创建
@@ -84,7 +84,7 @@ class（类）是真正写代码的地方。
 2. 为 class（类）取名（注意遵守 class 类的命名规范）；
 3. 选中“class”，回车。
 
-#### 1.1interface（接口）创建
+#### 5.interface（接口）创建
 
 在 package（包）中，新建一个 interface 接口。
 
