@@ -124,7 +124,7 @@ Shift + Tab，缩进、取消缩进。
 
 ### 1.选中单词
 
-【Win】 Ctrl + W；【Mac】Opt + 👆；选中光标所在的单词
+【Win】 Ctrl + W；【Mac】Opt + ↑；选中光标所在的单词
 
 【Win】Alt + j；【Mac】Ctrl + G；选中下一个相同的单词；
 
